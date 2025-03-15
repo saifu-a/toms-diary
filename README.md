@@ -21,7 +21,7 @@ Users can type messages into the diary, and Tom Riddle will respond just like in
 
 ## **📹 Demo Video**
 
-![Demo Video](Tom's Diary - Demo.mp4)
+![Demo Video](Diary.gif)
 
 ## **🛠️ Installation & Setup**
 
